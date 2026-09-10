@@ -710,7 +710,7 @@
         "@types/lodash": "^4.14.116",
         "@types/node": "^16.0.0",
         "@types/vscode": "^1.67",
-        "js-yaml": "^3.14.0",
+        "js-yaml": "^3.15.2",
         "typescript": "*",
         "vscode-tmgrammar-test": "^0.0.11"
     },
